@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Software Engineer at Innostride Consulting LLP.", "YouTuber", "BE at AVCOE, Sangamner, MH-422608", "Quick Learner", "Team Player"],
+        strings: ["Software Engineer at Innostride Consulting LLP.", "BE at AVCOE, Sangamner, MH-422608", "Quick Learner", "Team Player"],
         typeSpeed: 100,
         backSpeed: 30,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["YouTuber", "Quick Learner", "Team Player"],
+        strings: ["Quick Learner", "Team Player"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
